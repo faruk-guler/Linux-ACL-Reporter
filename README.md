@@ -18,9 +18,8 @@ ayrıca işlemden önce sağlam bir yedeğinizin olması gerekir.
 
 
 
-TR:
 
-linux-sysprep
+TR: linux-sysprep
 =======================
 2 .sh komut dosyası içerir.
 RİSK: Komutları çalıştırmadan önce bir yedeğiniz olduğundan emin olun!!
