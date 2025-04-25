@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python3d
 import os
 import stat
 import pwd
