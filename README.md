@@ -1,7 +1,7 @@
 # Linux ACL Reporter v.1 -farukguler.com
 
 <p align="center">
-  <img src="https://github.com/faruk-guler/Linux-ACL-Reporter/blob/main/lnx-acl.PNG" alt="Ansible Logo" width="500"/>
+<img src="https://github.com/faruk-guler/Linux-ACL-Reporter/blob/main/lnx-acl.PNG" right="Ansible Logo" width="500"/>
 </p>
 
 ## Requirements:
