@@ -1,8 +1,9 @@
 # Linux ACL Reporter v.1 -farukguler.com
 
-<p align="center">
-<img src="https://github.com/faruk-guler/Linux-ACL-Reporter/blob/main/lnx-acl.PNG" right="Ansible Logo" width="500"/>
+<p>
+  <img src="https://github.com/faruk-guler/Linux-ACL-Reporter/blob/main/lnx-acl.PNG" alt="ACL Logo" width="500" style="float: left;"/>
 </p>
+
 
 ## Requirements:
 -Python3
