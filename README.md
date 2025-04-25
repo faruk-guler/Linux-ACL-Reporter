@@ -9,8 +9,8 @@
 >+ python3 analyzer.py /etc -o etc_report.html --depth 3 --exclude /etc/ssl
 >+ ./analyzer.py /etc -o etc_report.html -d 3 -e /etc/ssl
 
-See Logs:
-cat permission_analyzer.log | grep "Symlink loop detected"
+## See Logs:
+>+ cat permission_analyzer.log | grep "Symlink loop detected"
 
 
 ## Requirements:
