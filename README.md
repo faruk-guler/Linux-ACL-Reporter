@@ -1,4 +1,5 @@
 # Linux ACL Reporter v.1 -farukguler.com
+## Thnx: Claude/Anthropic
 
 <p>
   <img src="https://github.com/faruk-guler/Linux-ACL-Reporter/blob/main/lnx-acl.PNG" alt="ACL Logo" width="500" style="float: left;"/>
