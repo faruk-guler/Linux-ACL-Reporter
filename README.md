@@ -1,7 +1,6 @@
 # Linux ACL Reporter -farukguler.com
-<p>
-  <img src="https://github.com/faruk-guler/Linux-ACL-Reporter/blob/main/report.jpeg" alt="ACL Logo" width="500" style="float: left;"/>
-</p>
+
+<img src="https://github.com/faruk-guler/Linux-ACL-Reporter/blob/main/report.jpeg" alt="ACL Logo" width="500" style="float: left;"/>
 
 ## Usage:
 
