@@ -8,7 +8,7 @@
 >+ ./analyzer.py /etc -o etc_report.html -d 3 -e /etc/ssl
 
 ## See Logs:
->+ default depth 5 directory
+>+ default depth (5) directory
 >+ cat permission_analyzer.log | grep "Symlink loop detected"
 
 
