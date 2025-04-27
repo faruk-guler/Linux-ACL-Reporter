@@ -15,7 +15,7 @@
 ## Requirements:
 -Python3
 
--linux acl tool 
+-acl package
 >apt install acl - yum install acl
 
 ## Thnx: Claude/Anthropic
