@@ -16,6 +16,7 @@
 -Python3
 
 -acl package
->apt install acl - yum install acl
+>apt install acl
+>yum install acl
 
 ## Thnx: Claude/Anthropic
