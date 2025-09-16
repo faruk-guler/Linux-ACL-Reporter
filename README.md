@@ -4,8 +4,7 @@
 
 ## Usage:
 
->+ python3 analyzer.py /etc -o etc_report.html --depth 3 --exclude /etc/ssl
->+ ./analyzer.py /etc -o etc_report.html -d 3 -e /etc/ssl
+>+ ./analyzer.py /etc -o etc_report.html --depth 3 --exclude /etc/ssl
 >+ ./analyzer.py /home --output report.html --depth 3 --follow-symlinks --exclude /proc /sys
 
 ## See Logs an Depth:
