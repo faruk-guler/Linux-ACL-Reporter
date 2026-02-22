@@ -1,0 +1,25 @@
+# Linux ACL Reporter Configuration
+# All paths should be absolute or relative to the script location.
+
+[scan_settings]
+target_path = "/"
+depth = 5
+max_workers = 4
+follow_symlinks = false
+acl_timeout = 5
+
+[file_rules]
+interesting_extensions = [
+    ".sh", ".py", ".pl", ".rb", ".php", 
+    ".conf", ".key", ".pem", ".crt", ".ini"
+]
+
+exclude_paths = [
+    "/proc",
+    "/var/lib/docker",
+]
+
+[output_settings]
+html_report = "permission_report.html"
+json_report = "permission_report.json"
+report_pagination = 1000
