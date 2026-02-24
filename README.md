@@ -46,4 +46,4 @@ A high-performance security auditing tool for Linux file permissions and Access 
 - **GitHub**: [github.com/faruk-guler](https://github.com/faruk-guler)
 
 ## License
-MIT License - Developed with focus on Linux security auditing.
+Apache 2.0 License - Developed with focus on Linux security auditing.
